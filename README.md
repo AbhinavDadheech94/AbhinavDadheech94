@@ -44,3 +44,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
 ![AWS](https://img.shields.io/badge/AWS-orange)
+
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
