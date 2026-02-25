@@ -1,7 +1,17 @@
 # Hi 👋 I'm Abhinav Dadheech
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=ELK+Stack+Developer;Elasticsearch+%7C+Observability+%7C+DevOps;Building+Scalable+Search+%26+Logging+Systems;AI+Powered+Semantic+Search+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=700&lines=ELK+Stack+Developer;Elasticsearch+%7C+Observability+%7C+DevOps;Building+Scalable+Search+%26+Logging+Systems;AI+Powered+Semantic+Search+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbhinavDadheech94&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 🚀 **ELK Stack Developer | Elasticsearch | Observability | DevOps**
@@ -44,15 +54,35 @@
 
 # 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavDadheech94&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavDadheech94&show_icons=true&theme=radical&count_private=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavDadheech94&layout=compact&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavDadheech94&layout=compact&theme=radical" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavDadheech94&theme=radical"/>
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavDadheech94&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhinavDadheech94&theme=radical&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavDadheech94&theme=react-dark" />
 
 ---
 
@@ -74,3 +104,9 @@
 # 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🚀 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/profile-night-rainbow.svg">
